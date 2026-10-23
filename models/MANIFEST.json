@@ -1,0 +1,3 @@
+{"model": "Qwen3-0.6B-Q4_K_M.gguf", "bytes": 484220320, "sha256": "9acfc1e001311f34b4252001b626f2e466d592a42065f66571bff3790d4e1b14",
+ "parts": ["qwen06b_q4.part-00","qwen06b_q4.part-01","qwen06b_q4.part-02","qwen06b_q4.part-03","qwen06b_q4.part-04","qwen06b_q4.part-05"],
+ "note": "app 下载全部分片按序拼接后校验 sha256"}
