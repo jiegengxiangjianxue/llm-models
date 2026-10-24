@@ -1,0 +1,1 @@
+{"file": "stock_q8", "parts": 40, "bytes": 639446880, "base": "Qwen3-0.6B", "adapter": "lora_stock 489-QA finetune 2026-10-24", "note": "merge_and_unload then q8_0 export"}
